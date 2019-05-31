@@ -3,14 +3,17 @@
 
 How to config Booking FrontEnd and BackEnd
 
-1.FrontEnd Angular 7
-
+### FrontEnd Angular 7
+```
+npm install -g @angular/cli
+```
+![alt text](https://www.talkingdotnet.com/wp-content/uploads/2018/10/Update-Angular-CLI-to-latest-version.png)
 
 2.BackEnd .Net Freamework 4.7
 
 
-### Create rabbitmq-server cluster
-#### Step 1 view /var/lib/rabbitmq/.erlang.cookie [Node 1]
+
+
 ```
 Server dev
 
