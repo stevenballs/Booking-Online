@@ -7,7 +7,7 @@ How to config Booking FrontEnd and BackEnd
 ```
 npm install -g @angular/cli
 ```
-![alt text](https://www.talkingdotnet.com/wp-content/uploads/2018/10/Update-Angular-CLI-to-latest-version.png)
+![Update-Angular-CLI-to-latest-version](https://user-images.githubusercontent.com/5410002/58721087-34aa0400-83fe-11e9-928a-77eaed18e92c.png)
 
 2.BackEnd .Net Freamework 4.7
 
